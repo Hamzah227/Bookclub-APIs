@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BOOKCLUB_API.Controllers.AppUtilController">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\AppUtilController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOOKCLUB_API.Controllers.UserController">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQQAAAAAABCAQACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\UserController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOOKCLUB_API.Controllers.WeatherForecastController">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEBAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\WeatherForecastController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOOKCLUB_API.SqlRepo.SqlUserRepository" Collapsed="true">
+    <Position X="2.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAQIAAAABAAQAAIAAAEAAAAAAAAAA=</HashCode>
+      <FileName>SqlRepo\SqlUserRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BOOKCLUB_API.SqlRepo.ApiWrapper">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAACA=</HashCode>
+      <FileName>SqlRepo\SqlUserRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOOKCLUB_API.Models.APIModel">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAQAAAAACA=</HashCode>
+      <FileName>Models\APIModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOOKCLUB_API.Models.AppUser" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEJAAGAEAACAEBAIAAAAAAASAAAgAQAAIAAAEAg=</HashCode>
+      <FileName>Models\AppUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOOKCLUB_API.Models.ProfileAttribute">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAEAAAAAwAAAAAAAAAAAAgAQAAAAA=</HashCode>
+      <FileName>Models\ProfileAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BOOKCLUB_API.IRepository.IUserRepository">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAIAAAABAAQAAIAAAEAAAAAAAAAA=</HashCode>
+      <FileName>IRepository\IUserRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

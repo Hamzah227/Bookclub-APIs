@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{22FE5D41-35D0-4034-B022-053CE888AD7F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BOOKCLUB-API/Controllers/RequestController.cs">
+    <Files>
+      <File FileName="BOOKCLUB-API/SqlRepo/SqlRequestRepository.cs" Line="95" Column="69" />
+      <File FileName="BOOKCLUB-API/Controllers/RequestController.cs" Line="239" Column="1" />
+      <File FileName="BOOKCLUB-API/IRepository/IRequest.cs" Line="17" Column="37" />
+      <File FileName="BOOKCLUB-API/Controllers/transportController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BOOKCLUB-API" expanded="True">
+            <Node name="BOOKCLUB-API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="IRepository" expanded="True" />
+              <Node name="SqlRepo" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BOOKCLUB-API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
